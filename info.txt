@@ -1,0 +1,4 @@
+Nombre:Luis Fernando Medina Lizarraga
+Fecha:10/03/2026
+Objetivo: Que el alumno practique el flujo completo de trabajo en GitHub partiendo desde cero: crear un repositorio nuevo, clonarlo, trabajar en una rama, realizar cambios y generar un Pull Request (PR).
+Definicion de Pull Request: es una solicitud formal para integrar cambios de código de una rama de trabajo a la rama principal de un proyecto.
